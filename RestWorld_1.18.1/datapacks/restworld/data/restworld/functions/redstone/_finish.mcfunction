@@ -1,1 +1,0 @@
-function restworld:redstone/_finish_fast
