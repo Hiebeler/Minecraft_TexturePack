@@ -1,0 +1,27 @@
+execute at @e[tag=witch_home] run function restworld:monsters/witch_cur
+execute at @e[tag=strider_home] run function restworld:monsters/strider_cur
+execute at @e[tag=shulker_home] run function restworld:monsters/shulker_cur
+execute at @e[tag=wither_skeleton_home] run function restworld:monsters/wither_skeleton_cur
+execute at @e[tag=zombie_home] run function restworld:monsters/zombie_cur
+execute at @e[tag=illager_home] run function restworld:monsters/illager_cur
+execute at @e[tag=phantom_home] run function restworld:monsters/phantom_cur
+execute at @e[tag=blaze_home] run function restworld:monsters/blaze_cur
+execute at @e[tag=silverfish_home] run function restworld:monsters/silverfish_cur
+execute at @e[tag=monsters_room_home] run function restworld:monsters/monsters_room_cur
+execute at @e[tag=magma_cube_home] run function restworld:monsters/magma_cube_cur
+execute at @e[tag=skeleton_horse_home] run function restworld:monsters/skeleton_horse_cur
+execute at @e[tag=spiders_home] run function restworld:monsters/spiders_cur
+execute at @e[tag=piglin_brute_home] run function restworld:monsters/piglin_brute_cur
+execute at @e[tag=zombie_horse_home] run function restworld:monsters/zombie_horse_cur
+execute at @e[tag=growing_home] run function restworld:monsters/growing_cur
+execute at @e[tag=slime_home] run function restworld:monsters/slime_cur
+execute at @e[tag=ghast_home] run function restworld:monsters/ghast_cur
+execute at @e[tag=piglin_home] run function restworld:monsters/piglin_cur
+execute at @e[tag=endermite_home] run function restworld:monsters/endermite_cur
+execute at @e[tag=enderman_home] run function restworld:monsters/enderman_cur
+execute at @e[tag=ravager_home] run function restworld:monsters/ravager_cur
+execute at @e[tag=creeper_home] run function restworld:monsters/creeper_cur
+execute at @e[tag=fangs_home] run function restworld:monsters/fangs_cur
+execute at @e[tag=skeleton_home] run function restworld:monsters/skeleton_cur
+execute at @e[tag=end_monsters_room_home] run function restworld:monsters/end_monsters_room_cur
+function restworld:monsters/_finish

@@ -1,0 +1,27 @@
+scoreboard players add witch funcs 1
+scoreboard players add strider funcs 1
+scoreboard players add shulker funcs 1
+scoreboard players add wither_skeleton funcs 1
+scoreboard players add zombie funcs 1
+scoreboard players add illager funcs 1
+scoreboard players add phantom funcs 1
+scoreboard players add blaze funcs 1
+scoreboard players add silverfish funcs 1
+scoreboard players add monsters_room funcs 1
+scoreboard players add magma_cube funcs 1
+scoreboard players add skeleton_horse funcs 1
+scoreboard players add spiders funcs 1
+scoreboard players add piglin_brute funcs 1
+scoreboard players add zombie_horse funcs 1
+scoreboard players add growing funcs 1
+scoreboard players add slime funcs 1
+scoreboard players add ghast funcs 1
+scoreboard players add piglin funcs 1
+scoreboard players add endermite funcs 1
+scoreboard players add enderman funcs 1
+scoreboard players add ravager funcs 1
+scoreboard players add creeper funcs 1
+scoreboard players add fangs funcs 1
+scoreboard players add skeleton funcs 1
+scoreboard players add end_monsters_room funcs 1
+function restworld:monsters/_cur

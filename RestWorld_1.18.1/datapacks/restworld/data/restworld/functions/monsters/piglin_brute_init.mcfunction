@@ -1,0 +1,1 @@
+summon piglin_brute ~0 ~2 ~0.8 {Tags:[piglin_brute,monsters,monsters_mobs],HandItems:[{id:"golden_axe",Count:1b},{}],CustomName:"\"Piglin Brute\"",PersistenceRequired:True,NoAI:True,Silent:True,Rotation:[180f,0f]}
